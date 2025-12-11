@@ -49,14 +49,9 @@ Quick helper to visualize the candles around the crash window for any market.
 ---
 
 ### **Candle reconstruction example**
-`candle_reconstruction_render.jpg`  
-![RENDER](2025-12-09 09.09.48.jpg.jpg)
-
-`candle_reconstruction_atom.jpg`  
-![ATOM](2025-12-09 09.09.44.jpg.jpg)
-
-`candle_reconstruction_enj.jpg`  
-![ENJ](2025-12-09 09.09.40.jpg.jpg)
+- `2025-12-09 09.09.48.jpg` — **RENDER/USDT**  
+- `2025-12-09 09.09.44.jpg` — **ATOM/USDT** with liquidation wick  
+- `2025-12-09 09.09.40.jpg` — **ENJ/USDT** deep micro-structure break
 
 ---
 
