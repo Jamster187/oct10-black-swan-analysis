@@ -28,6 +28,22 @@ Quick helper to visualize the candles around the crash window for any market.
 
 ## Example Outputs (all files are in this folder)
 
+### **Intraday Losses vs History (2017–2025)**
+Distribution of **maximum intraday losses** across all Binance spot markets (2017–2025), with **Oct 10 highlighted** to show how extreme the crash was relative to normal conditions.
+
+`intraday_losses_distribution.png`  
+![losses](intraday_losses_distribution.png)
+
+---
+
+### **Intraday Pumps vs History (2017–2025)**
+Distribution of **maximum intraday pumps** across all Binance spot markets (2017–2025), with **Oct 10 highlighted**, capturing the reflexive squeeze and rebound behavior during the event.
+
+`intraday_pumps_distribution.png`  
+![pumps](intraday_pumps_distribution.png)
+
+---
+
 ### **Futures vs Binance Spot (LOW basis)**
 `median_low_basis_vs_binance_spot_2025-10-10_2109_2200.png`  
 ![low](median_low_basis_vs_binance_spot_2025-10-10_2109_2200.png)
@@ -58,7 +74,6 @@ Quick helper to visualize the candles around the crash window for any market.
 
 `2025-12-09 09.09.40.jpg` — **ENJ/USDT** deep micro-structure break  
 ![enj](2025-12-09%2009.09.40.jpg)
-
 
 ---
 
