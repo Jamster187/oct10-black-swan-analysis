@@ -77,6 +77,31 @@ Distribution of **maximum intraday pumps** across all Binance spot markets (2017
 
 ---
 
+## 🔥 Cross-Exchange Liquidation Volume (Spot + Futures)
+
+The following figures show **USD-denominated liquidation-window traded volume** aggregated across **multiple exchanges**, split by **spot vs futures**, during the core crash window (**21:09–22:00 UTC**).
+
+These outputs come from `oct_10th_liq_vol.py` and highlight just how **dominant futures flow** was relative to spot during the event.
+
+### **Liquidation Window — Exchanges A–M**
+`liq_output_1o2_oct10.png`  
+![Liquidation volume across exchanges (part 1)](liq_output_1o2_oct10.png)
+
+---
+
+### **Liquidation Window — Exchanges N–Z**
+`liq_output_2o2_oct10.png`  
+![Liquidation volume across exchanges (part 2)](liq_output_2o2_oct10.png)
+
+---
+
+### Notes
+- Volumes are **true USD notional**, not contract counts  
+- Futures volume overwhelmingly dominated spot on most venues  
+- Several exchanges show **near-zero spot contribution**, consistent with forced liquidation dynamics rather than organic selling  
+
+---
+
 ## Why this repo exists
 My main project (`1minArbitrageTools`) handles all the data collection and infra.  
 This repo is the “analysis notebook” version — focused on a single extreme day where markets behaved unlike anything you normally see.
