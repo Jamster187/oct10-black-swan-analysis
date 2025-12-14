@@ -97,8 +97,7 @@ These outputs come from `oct_10th_liq_vol.py` and highlight just how **dominant 
 
 ### Notes
 - Volumes are **true USD notional**, not contract counts  
-- Futures volume overwhelmingly dominated spot on most venues  
-- Several exchanges show **near-zero spot contribution**, consistent with forced liquidation dynamics rather than organic selling  
+- Futures volume overwhelmingly dominated spot on most venues   
 
 ---
 
