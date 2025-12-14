@@ -97,7 +97,8 @@ These outputs come from `oct_10th_liq_vol.py` and highlight just how **dominant 
 
 ### Notes
 - Volumes are **true USD notional**, not contract counts  
-- Futures volume overwhelmingly dominated spot on most venues   
+- Futures volume overwhelmingly dominated spot on most venues 
+- Most analytics site claim ~19-20b in liquidation volume for Oct 10th.
 
 ---
 
